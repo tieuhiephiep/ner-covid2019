@@ -614,6 +614,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👥 Authors
 
 - **Đoàn Anh Hùng** - [GitHub](https://github.com/doananhhung)
+- **Nguyễn Quang Hiệp** - [GitHub](https://github.com/tieuhiephiep).
 
 ---
 
@@ -622,13 +623,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - [VinAI Research](https://github.com/VinAIResearch) - PhoNER_COVID19 dataset & PhoBERT model
 - [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - Vietnamese NLP toolkit
 - [Google Gemini](https://ai.google.dev/) - AI-powered text splitting
-
----
-
-## 📞 Contact & Support
-
-- **GitHub Issues**: [https://github.com/doananhhung/NER_Covid19/issues](https://github.com/doananhhung/NER_Covid19/issues)
-- **Email**: doananhhung@example.com
 
 ---
 
